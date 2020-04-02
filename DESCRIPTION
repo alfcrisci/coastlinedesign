@@ -8,7 +8,9 @@ Description: R functions to perform processing of coastal imagery.
 License: GNU + file LICENSE
 Authors@R: c(
     person("Massimo", "Perna", role = c("aut", "cre"), email = "perna@lamma.rete.toscana.it"),
+    person("Carlo", "Brandini", role = "aut", email = "brandini@lamma.rete.toscana.it"),
     person("Alfonso", "Crisci", role = "aut", email = "alfonso.crisci@ibe.cnr.it")
+    
   )
 URL: https://github.com/alfcrisci/coastlinedesign 
 BugReports: https://github.com/coastlinedesign /coastlinedesign issues
