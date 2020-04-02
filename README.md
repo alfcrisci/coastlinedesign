@@ -1,3 +1,3 @@
-# linecoastdesign
+# coastlinedesign
 
-linecoastdesign R package 
+coastlinedesign R package 
