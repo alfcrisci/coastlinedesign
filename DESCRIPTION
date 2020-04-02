@@ -1,6 +1,6 @@
 Package: coastlinedesign 
 Type: Package
-Title: Coast Line extraction from high resolution imagery. 
+Title: Coast line extraction from high resolution imagery. 
 Version: 0.2
 Date: 2016-06-03
 Maintainer: Alfonso Crisci <a.crisci@ibimet.cnr.it>
