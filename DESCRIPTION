@@ -1,4 +1,4 @@
-Package: coastlinedesign 
+Package: shorelinedesign 
 Type: Package
 Title: Coast line extraction from high resolution imagery. 
 Version: 0.2
